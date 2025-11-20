@@ -1,0 +1,26 @@
+.req{
+    color: red;
+}
+.valMsg{
+    color: red;
+}
+.heading{
+    text-align: center;
+}
+.regArea{
+    background-color: rgb(14, 105, 128);
+    width: 400px;
+    margin: auto;
+    padding: 15px;
+    border-radius: 15px;
+}
+.analytics{
+    background-color: rgb(185, 88, 88);
+    width: 400px;
+    margin: auto;
+    padding: 15px;
+    border-radius: 15px;
+}
+.field{
+    border-radius: 5px;
+}
